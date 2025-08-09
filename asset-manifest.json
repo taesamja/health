@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/health/static/css/main.149155e5.css",
+    "main.js": "/health/static/js/main.8dc78d45.js",
+    "static/js/453.932cc03f.chunk.js": "/health/static/js/453.932cc03f.chunk.js",
+    "index.html": "/health/index.html",
+    "main.149155e5.css.map": "/health/static/css/main.149155e5.css.map",
+    "main.8dc78d45.js.map": "/health/static/js/main.8dc78d45.js.map",
+    "453.932cc03f.chunk.js.map": "/health/static/js/453.932cc03f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.149155e5.css",
+    "static/js/main.8dc78d45.js"
+  ]
+}
